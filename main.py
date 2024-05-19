@@ -1,1 +1,1 @@
-a=' some text'
+a='some changed text'
